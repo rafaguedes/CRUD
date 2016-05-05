@@ -109,7 +109,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="host">
           <Properties>
-            <Property name="text" type="java.lang.String" value="diadosabio.com.br"/>
+            <Property name="text" type="java.lang.String" value=""/>
             <Property name="toolTipText" type="java.lang.String" value=""/>
           </Properties>
           <Events>
@@ -131,7 +131,7 @@
         </Component>
         <Component class="javax.swing.JPasswordField" name="password">
           <Properties>
-            <Property name="text" type="java.lang.String" value="dia@2015!"/>
+            <Property name="text" type="java.lang.String" value=""/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="passwordActionPerformed"/>
@@ -144,7 +144,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="user">
           <Properties>
-            <Property name="text" type="java.lang.String" value="diadosab_root"/>
+            <Property name="text" type="java.lang.String" value=""/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="userActionPerformed"/>
@@ -157,7 +157,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="database">
           <Properties>
-            <Property name="text" type="java.lang.String" value="diadosab_cies"/>
+            <Property name="text" type="java.lang.String" value=""/>
           </Properties>
         </Component>
       </SubComponents>
